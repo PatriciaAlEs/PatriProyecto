@@ -1,0 +1,93 @@
+body {
+background-color: lightgrey;
+}
+
+.container {
+width: 100%;
+background-color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 0;
+text-align: center;
+}
+
+
+.post {
+background-color: white;
+width: 30%;
+height: auto;
+margin: 30px auto 30px auto;
+font-size: medium;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.post-header {
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+span{ 
+    color: gray;}
+
+.postbody {
+width: 300%;
+height: auto;
+padding: 5px 0;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 10px 0 10px;
+}
+
+.post2 {
+    background-color: white;
+    width: 30%;
+    height: auto;
+    margin: 30px auto 30px auto;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .post-header2 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    span{ 
+        color: gray;}
+    
+    .postbody2 {
+    width: 300%;
+    height: auto;
+    padding: 5px 0;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: 0 10px 0 10px;
+    }
+
+    .post3 {
+        background-color: white;
+        width: 30%;
+        height: auto;
+        margin: 30px auto 30px auto;
+        font-size: medium;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        
+        .post-header3 {
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        }
+        span{ 
+            color: gray;}
+        
+        .postbody3 {
+        width: 300%;
+        height: auto;
+        padding: 5px 0;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            margin: 0 10px 0 10px;
+        }
